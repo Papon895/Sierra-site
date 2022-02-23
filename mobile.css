@@ -1,0 +1,225 @@
+      /*==header area start here===*/
+header .logo-sec {
+  padding: 1.7rem 1.7rem;
+}
+header .logo-sec img {
+  height: auto;
+}
+header .logo-sec .menu-icon{
+  font-size: 2rem;
+}
+header .logo-sec .menu {
+  top: 5.8rem;
+}
+header .logo-sec.sticky {
+  padding: 1.8rem 1.7rem 1.4rem 1.7rem;
+  border-top: 0px solid lightgrey;
+}
+.logo-sec.sticky .menu {
+  top: 6rem;
+}
+header {
+  background-position: 40% 40%;
+}
+.banner-sec {
+  padding: 0 2rem;
+  text-align: center;
+}
+.banner-sec .banner-text p {
+  width: 80%;
+  margin: 0 auto;
+  font-size: 1.5rem;
+  padding-left: 0;
+  margin-bottom: 5rem;
+}
+.banner-sec .banner-text h1 {
+  font-size: 2.4rem;
+  line-height: 3.5rem;
+  padding-bottom: 3rem;
+}
+.banner-sec .banner-img {
+  width: 70%;
+  height: 55rem;
+  right: 4rem;
+  bottom: -10rem;
+}
+.btn {
+  font-size: 1.4rem;
+}
+      /*==header area ends here===*/
+      /*==section1  area start here===*/
+#section1 {
+  width: 92vw;
+  margin: 18rem auto 8rem auto;
+}
+#section1 .card {
+  width: 100%;
+  padding: 2rem 1.4rem 6rem 1.4rem;
+  margin-bottom: 2rem;
+}
+#section1 .card p {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+#section1 .card img {
+  width: 8rem;
+}
+.sec-text h2 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+#section1 .card-sec {
+  margin-top: 4.5rem;
+}
+#section1 .post {
+  margin-top: 3rem;
+  width: 92vw;
+}
+#section1 .post h2 {
+  font-size: 1.8rem;
+  padding-bottom: 0.7rem;
+}
+#section1 .post>p {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  padding-bottom: 2rem;
+}
+#section1 .post .post-text small {
+  font-size: 0.9rem;
+}
+#section1 .post .post-text p{
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+#section1 .post .post-owner img{
+  width: 5.2rem;
+  padding-right: 1rem;
+}
+#section1 .three-dot .one,.two,.three {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+#section1 .three-dot {
+  width: 10%;
+  margin: 3rem auto 0 auto;
+}
+/*==section1  area ends here===*/
+
+/*==section2  area start here===*/
+#section2 {
+  margin-bottom: 8rem;
+}
+#section2 .sec2-img {
+  display: none;
+}
+#section2 .sec2-text {
+  width: 100%;
+}
+#section2 .sec-text h2 {
+  line-height: 4rem;
+}
+#section2 .sec2-text p:last-child {
+  line-height: 2.8rem;
+  margin-top: 5rem;
+  font-weight: 400;
+  padding-right: 0;
+}
+/*==section2  area ends here===*/
+
+/*==section3  area start here===*/
+#section3 {
+  width: 100vw;
+  margin: 0 auto 8rem auto;
+  padding: 0 1.7rem;
+}
+#section3 .sec3-text {
+  padding: 0 0;
+}
+#section3 .img-gellary img {
+  width: 47%;
+  margin-bottom: 2rem;
+}
+#section3 .details p {
+  font-weight: 400;
+ line-height: 2.8rem;
+}
+#section3 .details ul li:before {
+  left: -1.8rem;
+}
+#section3 .details ul li:hover:before {
+  left: -1.3rem;
+}
+/*==section3 area ends here===*/
+
+/*==section4 starts here===*/
+#section4 {
+  width: 92vw;
+}
+#section4 .btn {
+  margin-top: 4rem;
+}
+/*==section4 ends here===*/
+
+/*==section5 starts here===*/
+#section5 {
+  width: 92vw;
+   margin: 2rem auto 32rem auto;
+}
+#section5 .address-sec {
+  background-position: 10% 10%;
+  height: 20rem;
+}
+#section5 .address-bar .part1 {
+  margin-bottom: 1.5rem;
+}
+#section5 .address-bar h5 {
+   color: rgb(143,143,143);
+   margin-bottom: 0.8rem;
+}
+#section5 .address-bar {
+  margin-left: 0;
+  width: 90%;
+  margin-bottom: -42rem;
+  padding: 3rem 2.5rem 2.5rem 2.5rem;
+}
+#section5 .address-bar .part1,.part2 {
+  width: 100%;
+}
+#section5 .text-part{
+  display: block;
+}
+/*==section5 ends here===*/
+
+/*---footer area start here---*/
+.fot-container {
+  width: 80vw;
+}
+.footer-sec .left p {
+  margin-bottom: 3rem;
+  font-size: 1.4rem;
+}
+.footer-sec .left{
+  width: 100%;
+}
+.footer-sec .right{
+  width: 100%;
+}
+.footer-sec form {
+  width: 100%;
+  margin-top: 3rem;
+}
+.footer-sec form h4 {
+  font-size: 1.5rem;
+}
+.main-fot {
+  font-size: 1.6rem;
+  text-align: center;
+}
+.fot-container2 {
+  width: 92vw;
+}
+.main-fot .social-btn {
+  margin-top: 1rem;
+  text-align: center;
+}
+/*---footer area ends here---*/
